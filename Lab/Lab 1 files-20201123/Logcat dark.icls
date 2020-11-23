@@ -1,0 +1,36 @@
+<scheme name="Darcula custom" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-09-11T14:49:40</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.1.4.0</property>
+    <property name="modified">2018-09-11T14:50:09</property>
+    <property name="originalScheme">Logcat dark</property>
+  </metaInfo>
+  <attributes>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff7b7b" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="60bb58" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff383a" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="49a0bb" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffac00" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
